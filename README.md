@@ -37,13 +37,16 @@ Please see attached powerpoint.
 
 ## Adverserial Triggers
 
+When we understand what relations are critical to the model prediction, we can see that the model might by over-emphasizing and relying on certain relationships. To make the model more robust, test these connections by inputting triggers into other inputs and seeing if the model only focuses on the over-emphasized patterns. This can dramatically decrease the model accuracy. 
+
+<img width="432" alt="Screen Shot 2022-10-31 at 4 42 07 PM" src="https://user-images.githubusercontent.com/89158606/199115947-0b17e885-b136-42eb-8224-41856e79cf11.png">
 
 ## Critical Analysis
 
 What could have been developed further? 
 What was overlooked by the authors?
 
-I thought this paper was very helpful to delve into the self-attention mechanism. I thought that the pseudocode for the attribution analysis was very interesting and could have been developed futher. In fact, the authors indicate that the attribution analysis is developed furhter in the appendix, but I could not find an appendix anywhere online or in the PDF. This seems like an oversight where the appendix was either not developed or not included.
+I thought this paper was very helpful to delve into the self-attention mechanism. I thought that the pseudocode for the attribution analysis was very interesting and could have been developed futher by the authors. In fact, the authors indicate that the attribution analysis is developed further in the appendix of the paper, but I could not find an appendix anywhere online or in the PDF. This seems like an oversight where the appendix was either not developed or not included in the final paper.
 
 I also thought that the authors could have built out the section on adverserial attacks to explain why it is helpful to perform adverserial triggers. For someone who is unfamiliar with that concept, I was not clear why we would want to attack the model in the first place. Outside research (includingg the video that I included in the resource links) led me to realize that it precludes others from manipulating the transformer and makes the transformers generally more robust when it is not overemphasizing certain tokens. 
 
@@ -61,5 +64,7 @@ https://www.youtube.com/watch?v=pGSl3eHdgeo
 Related Code (Complicated Implementation):
 
 https://github.com/YRdddream/attattr
+
+Sourcing Note: All pictures and diagrams on the repo are sourced from the original article (https://arxiv.org/pdf/2004.11207.pdf)
 
 ## Video Recording Link: 

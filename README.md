@@ -37,7 +37,7 @@ Please see attached powerpoint.
 
 ## Adverserial Triggers
 
-When we understand what relations are critical to the model prediction, we can see that the model might by over-emphasizing and relying on certain relationships. To make the model more robust, test these connections by inputting triggers into other inputs and seeing if the model only focuses on the over-emphasized patterns. This can dramatically decrease the model accuracy. 
+If we understand what token relationships are critical to the model prediction, we can see that the model might be over-emphasizing and relying on certain relationships. To make the model more robust, we can test these connections by inputting triggers into other inputs and seeing if the model only focuses on the over-emphasized patterns. This can dramatically decrease the model accuracy. 
 
 <img width="432" alt="Screen Shot 2022-10-31 at 4 42 07 PM" src="https://user-images.githubusercontent.com/89158606/199115947-0b17e885-b136-42eb-8224-41856e79cf11.png">
 

@@ -25,7 +25,7 @@
 
 ## Head Pruning:
 
-Knowing the attribution scores (from ATTATTR method) for each head in the multi-head attention mechanism, some heads can then be pruned if they are not important to the model output. This will allow for better model computation with the same accuracy.
+If we know the attribution scores (from ATTATTR method) for each head in the multi-head attention mechanism, some heads can then be pruned if they are not important to the model output. This will allow for better model computation with limited change to the model accuracy.
 
 <img width="632" alt="Screen Shot 2022-10-28 at 2 45 32 PM" src="https://user-images.githubusercontent.com/89158606/198719755-2c394309-02d2-41dc-8db6-d1e6a8a3e460.png">
 

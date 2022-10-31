@@ -49,13 +49,17 @@ I also thought that the authors could have built out the section on adverserial 
 
 ## Additional Resource Links
 Transformer and Self-Attention Review: 
+
 http://jalammar.github.io/illustrated-transformer/
+
 https://arxiv.org/abs/1706.03762
 
 Video on Adverserial Attacks:
+
 https://www.youtube.com/watch?v=pGSl3eHdgeo
 
 Related Code (Complicated Implementation):
+
 https://github.com/YRdddream/attattr
 
 ## Video Recording Link: 

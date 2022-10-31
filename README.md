@@ -1,7 +1,7 @@
 # Self-Attention Attribution: Interpreting Information Interactions Inside Transformer
 
 ## Overview:
-**Reminder:** What is multi-head self-attention? Mechanism within the transformer architecture that learns token dependencies and encodes contextual information from the input
+**Reminder:** What is multi-head self-attention? Mechanism within the transformer architecture that learns token dependencies and encodes contextual information from the input.
 
 **Problem:** Transformer architecture is like a "black box" when it comes to how multi-head self attention is actually working within the model. Prior work on self-attention fails to describe how the model inputs are interacting with attention to derive an output prediction.
 

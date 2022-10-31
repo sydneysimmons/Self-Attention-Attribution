@@ -8,7 +8,7 @@
 **Author's solution:** A self-attention attribution method (ATTATTR) that explains the information interactions inside of a transformer. The method can be utilized for 3 primary uses:
 1. Head Pruning
 2. Attribution Tree Analysis
-3. Construct adverserial triggers
+3. Construct Adverserial Triggers
 
 ## Attention Versus Attribution Scores
 

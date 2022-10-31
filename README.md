@@ -61,6 +61,10 @@ Video on Adverserial Attacks:
 
 https://www.youtube.com/watch?v=pGSl3eHdgeo
 
+Related Paper on Taylor Expansion Method (prior work on this topic):
+
+https://arxiv.org/pdf/1905.10650.pdf
+
 Related Code (Complicated Implementation):
 
 https://github.com/YRdddream/attattr

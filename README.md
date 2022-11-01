@@ -71,4 +71,5 @@ https://github.com/YRdddream/attattr
 
 Sourcing Note: All pictures and diagrams on the repo are sourced from the original article (https://arxiv.org/pdf/2004.11207.pdf)
 
-## Video Recording Link: 
+## Video Recording Link: https://www.youtube.com/watch?v=IW_SCBVHIVg
+

@@ -48,7 +48,7 @@ What was overlooked by the authors?
 
 I thought this paper was very helpful to delve into the self-attention mechanism. I thought that the pseudocode for the attribution analysis was very interesting and could have been developed futher by the authors. In fact, the authors indicate that the attribution analysis is developed further in the appendix of the paper, but I could not find an appendix anywhere online or in the PDF. This seems like an oversight where the appendix was either not developed or not included in the final paper.
 
-I also thought that the authors could have built out the section on adverserial attacks to explain why it is helpful to perform adverserial triggers. For someone who is unfamiliar with that concept, I was not clear why we would want to attack the model in the first place. Outside research (includingg the video that I included in the resource links) led me to realize that it precludes others from manipulating the transformer and makes the transformers generally more robust when it is not overemphasizing certain tokens. 
+I also thought that the authors could have built out the section on adverserial attacks to explain why it is helpful to perform adverserial triggers. For someone who is unfamiliar with that concept, I was not clear why we would want to attack the model in the first place. Outside research (including the video that I included in the resource links) led me to realize that it precludes others from manipulating the transformer and makes the transformer generally more robust when it is not overemphasizing certain tokens. 
 
 ## Additional Resource Links
 Transformer and Self-Attention Review: 

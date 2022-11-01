@@ -33,7 +33,7 @@ If we know the attribution scores (from ATTATTR method) for each head in the mul
 
 <img width="615" alt="image" src="https://user-images.githubusercontent.com/89158606/199342616-41946eed-faee-4dc9-bb31-8f04b36d7485.png">
 
-### Question 2: Based on this tree, what conclusion do you think the model output is for sentiment analysis: positive, negative or neutral? What do you think would change in the attribution tree analysis for a different model (not BERT) or a different task (not sentiment analysis)? 
+### Question 2: Based on this tree, what conclusion do you think the model output is for sentiment analysis: positive, negative or neutral? What do you think would change in the attribution tree analysis for a different model (not BERT)? 
 
 ## Adverserial Triggers
 
